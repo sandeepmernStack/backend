@@ -1,3 +1,1 @@
-# a backend series with chai aur code
-
-project setup with 
+# A backend series whith chai aur code
